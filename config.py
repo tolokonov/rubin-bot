@@ -14,12 +14,12 @@ employees_list = [
         'place': 'Беседка около 1 Корпуса',
         'employees' : [
             {
-                'name': 'кушнир',
-                'image_id': 'AgACAgIAAxkBAANEYRPz8BCLZnOndo3zBuNfnyh8EIYAAvm4MRsv3phI63Qe_oNd4b4BAAMCAANzAAMgBA'
+                'name': 'Сергей Бухер',
+                'image_id': 'AgACAgIAAxkBAANMYRQ2PiPYO7XbDpWiBCNXG7UdyWkAApq2MRtCkKFIvCdv6iG6WDwBAAMCAANzAAMgBA'
             },
             {
-                'name': 'дина',
-                'image_id': 'AgACAgIAAxkBAANEYRPz8BCLZnOndo3zBuNfnyh8EIYAAvm4MRsv3phI63Qe_oNd4b4BAAMCAANzAAMgBA'
+                'name': 'Ирина Бондарева',
+                'image_id': 'AgACAgIAAxkBAANOYRQ4d0TyXTLfuE7-1mwb2EYKVzwAApy2MRtCkKFItutOgufAXgkBAAMCAANzAAMgBA'
             }
         ]
     },
@@ -28,12 +28,12 @@ employees_list = [
         'place': 'Беседка около 1 Корпуса',
         'employees' : [
             {
-                'name':'кушнир',
-                'image_id': 'sss.sss.com'
+                'name':'Цыцаров Денис',
+                'image_id': 'AgACAgIAAxkBAANQYRQ52ff23jAHSIaIeo2bGLdTIf4AAp-2MRtCkKFIVDnjoiXvwXUBAAMCAANzAAMgBA'
             },
             {
-                'name': 'дина',
-                'image_id': ''
+                'name': 'Козырькова Дина',
+                'image_id': 'AgACAgIAAxkBAANSYRQ5-xolXIWxTk-nnH8EdYqxiykAAqC2MRtCkKFII7dtIiHpwTcBAAMCAANzAAMgBA'
             }
         ]
     },
@@ -42,12 +42,12 @@ employees_list = [
         'place': 'Беседка около 1 Корпуса',
         'employees': [
             {
-                'name': 'кушнир',
-                'image_id': 'sss.sss.com'
+                'name': 'Назимов Дмитрий',
+                'image_id': 'AgACAgIAAxkBAANUYRQ-8AMXblJ8WbG7uQXyDbRe244AAqG2MRtCkKFIWRbq612oNYABAAMCAANzAAMgBA'
             },
             {
-                'name': 'дина',
-                'image_id': ''
+                'name': 'Давыдова Мария',
+                'image_id': 'AgACAgIAAxkBAANWYRQ_bTppuQpF_GfAwwoHDWP_v1kAAqK2MRtCkKFIfMUscvZ9RvoBAAMCAANzAAMgBA'
             }
         ]
     },
@@ -56,12 +56,12 @@ employees_list = [
         'place': 'Беседка около 1 Корпуса',
         'employees': [
             {
-                'name': 'кушнир',
-                'image_id': 'sss.sss.com'
+                'name': 'Кушнир Артём',
+                'image_id': 'AgACAgIAAxkBAANaYRRARgogQ5zaMzd01fd59i4nT0sAAqW2MRtCkKFIntSLbZERFUUBAAMCAANzAAMgBA'
             },
             {
-                'name': 'дина',
-                'image_id': ''
+                'name': 'Харлина Анастасия',
+                'image_id': 'AgACAgIAAxkBAANYYRQ_6qr9MEBSOXBcsCRu74CFr1kAAqO2MRtCkKFIRQHuGz2hfJsBAAMCAANzAAMgBA'
             }
         ]
     },
@@ -70,12 +70,12 @@ employees_list = [
         'place': 'Беседка около 1 Корпуса',
         'employees': [
             {
-                'name': 'кушнир',
-                'image_id': 'sss.sss.com'
+                'name': 'Старченков Кирилл',
+                'image_id': 'AgACAgIAAxkBAANeYRRDeQ_PqVLdaU1CXCtVxfzNUXcAAqi2MRtCkKFIIz-a5BsZMmUBAAMCAANzAAMgBA'
             },
             {
-                'name': 'дина',
-                'image_id': ''
+                'name': 'Сафонова Дарья',
+                'image_id': 'AgACAgIAAxkBAANcYRRDW55yIOiptj3qcFwzU7pZCgYAAqe2MRtCkKFIDJHHd0goMNQBAAMCAANzAAMgBA'
             }
         ]
     },
@@ -84,12 +84,12 @@ employees_list = [
         'place': 'Беседка около 1 Корпуса',
         'employees': [
             {
-                'name': 'кушнир',
-                'image_id': 'sss.sss.com'
+                'name': 'Конон Артем',
+                'image_id': 'AgACAgIAAxkBAANiYRRFW6jZihb0eZmyBk_AlXPCWYcAAqq2MRtCkKFI8ouuP04W3IQBAAMCAANzAAMgBA'
             },
             {
-                'name': 'дина',
-                'image_id': ''
+                'name': 'Филоненко Елизавета',
+                'image_id': 'AgACAgIAAxkBAANgYRRFL4mLht868O6lQARMuiXVZZ0AAqm2MRtCkKFIZ3p-bHmnUycBAAMCAANzAAMgBA'
             }
         ]
     },
@@ -98,12 +98,12 @@ employees_list = [
         'place': 'Беседка около 1 Корпуса',
         'employees': [
             {
-                'name': 'кушнир',
-                'image_id': 'sss.sss.com'
+                'name': 'Ваньков Дарви',
+                'image_id': 'AgACAgIAAxkBAANmYRRHyinARbby9A_qMflNRJkSuk0AAq62MRtCkKFIi0RQIbxClKcBAAMCAANzAAMgBA'
             },
             {
-                'name': 'дина',
-                'image_id': ''
+                'name': 'Шацкова Валерия',
+                'image_id': 'AgACAgIAAxkBAANkYRRHpOdM20mUmNXv0MI6Dijg1e8AAq22MRtCkKFIEbNRi9a6mzABAAMCAANzAAMgBA'
             }
         ]
     },
@@ -112,12 +112,12 @@ employees_list = [
         'place': 'Беседка около 1 Корпуса',
         'employees': [
             {
-                'name': 'кушнир',
-                'image_id': 'sss.sss.com'
+                'name': 'Ерохин Валера',
+                'image_id': 'AgACAgIAAxkBAANqYRRJopVCod3GI0ZZMelYovqc6LUAArC2MRtCkKFIKEcR1ZYkK-MBAAMCAANzAAMgBA'
             },
             {
-                'name': 'дина',
-                'image_id': ''
+                'name': 'Фомина Екатерина',
+                'image_id': 'AgACAgIAAxkBAANoYRRJgDA3n9olnv7-f_IS8Xf9_3YAAq-2MRtCkKFIlMjZFPmOVEgBAAMCAANzAAMgBA'
             }
         ]
     },
@@ -126,12 +126,24 @@ employees_list = [
         'place': 'Беседка около 1 Корпуса',
         'employees': [
             {
-                'name': 'кушнир',
-                'image_id': 'sss.sss.com'
+                'name': 'Черняева Екатерина',
+                'image_id': 'AgACAgIAAxkBAANsYRRMMQRyh015nIGRuu7JDE9fSvwAArO2MRtCkKFIsrJQsj4ZhJIBAAMCAANzAAMgBA'
             },
             {
-                'name': 'дина',
-                'image_id': ''
+                'name': 'фонина Арина',
+                'image_id': 'AgACAgIAAxkBAANuYRRNc7ucg6sKzoWbfIk7x461lU0AArS2MRtCkKFI9C2XXt180HgBAAMCAANzAAMgBA'
+            },
+            {
+                'name': 'Косухина Мария',
+                'image_id': 'AgACAgIAAxkBAANwYRRNlfKyGYNF8nTNmBEL6UovIX0AArW2MRtCkKFILmlj7FHyiG8BAAMCAANzAAMgBA'
+            },
+            {
+                'name': 'Шмелева Анастасия',
+                'image_id': 'AgACAgIAAxkBAANyYRRN_d-tGQfHsP3P4CiSiXHheZkAAre2MRtCkKFIKz118tNlgpoBAAMCAANzAAMgBA'
+            },
+            {
+                'name': 'Романова Елизавета',
+                'image_id': 'AgACAgIAAxkBAAN0YRROFY9PCj0qa-xknhYUWLI396IAAri2MRtCkKFIK9GMIYwipSABAAMCAANzAAMgBA'
             }
         ]
     },
@@ -140,12 +152,38 @@ employees_list = [
         'place': 'Беседка около 1 Корпуса',
         'employees': [
             {
-                'name': 'кушнир',
-                'image_id': 'sss.sss.com'
+                'name': 'Варсеев Тимофей',
+                'image_id': 'AgACAgIAAxkBAAN2YRRTw1avidrA9semx1NL20hFixsAArm2MRtCkKFIOF-LNeNqScwBAAMCAANzAAMgBA'
             },
             {
-                'name': 'дина',
-                'image_id': ''
+                'name': 'Чучина Анастасия',
+                'image_id': 'AgACAgIAAxkBAAN4YRRT6MbQX3NG-YG8KQtVhl0YNuoAArq2MRtCkKFICIlE7guA7VUBAAMCAANzAAMgBA'
+            },
+            {
+                'name': 'Рогова Марина'
+                'image_id': 'AgACAgIAAxkBAAN6YRRUC_IUV28ZPxosKWxahPUd_TIAAru2MRtCkKFIXjsveV06b9cBAAMCAANzAAMgBA'
+            }
+        ]
+    },
+    {
+        'group_name': 'Тех-служба',
+        'place': 'Беседка',
+        'employees': [
+            {
+                'name': 'Толоконов Илья',
+                'image_id': 'AgACAgIAAxkBAAN8YRRUzKnUoicLExCR-bnO65tFaPUAAry2MRtCkKFIS2_w7wnNYG8BAAMCAANzAAMgBA'
+            },
+            {
+                'name': 'Конаков Павел',
+                'image_id': 'AgACAgIAAxkBAAOAYRRVA959qZZWDoK7c-BSBb5vEB8AAr62MRtCkKFIH5SF6UXnnzkBAAMCAANzAAMgBA'
+            },
+            {
+                'name': 'Близнов Матвей',
+                'image_id': 'AgACAgIAAxkBAAOCYRRVHhX0jZL0N2tqFIWtX9-UdxUAAr-2MRtCkKFIn0_BbgFkiu4BAAMCAANzAAMgBA'
+            },
+            {
+                'name': 'Рюмин Кирилл',
+                'image_id': 'AgACAgIAAxkBAAN-YRRU6E8GzyzIBbp_UWsfI2myBkoAAr22MRtCkKFINmOYydRtsDMBAAMCAANzAAMgBA'
             }
         ]
     },
